@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the list of readings assigned for each lecture
+  session. Students are expected to critically analyze the readings and come prepared
+  to discuss the readings assigned. Discussion notes are also provided for each lecture
+  session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

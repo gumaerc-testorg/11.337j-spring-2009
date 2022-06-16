@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the weekly critical reading analysis
+  assignments of the course and a case study analysis assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
