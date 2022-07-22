@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: This section provides the list of readings assigned for each lecture
+  session. Students are expected to critically analyze the readings and come prepared
+  to discuss the readings assigned. Discussion notes are also provided for each lecture
+  session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: df2d0fec-6f8c-4a93-e4bb-605432a9d44f
 ---
@@ -35,7 +42,7 @@ In what ways does urban design get done by democratic government, why, and what 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -80,7 +87,7 @@ Chapter 4 discusses the relationship between politics and ideology since urban p
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -128,7 +135,7 @@ The chapter focuses on the unusual nature of local politics and the impact of a 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -161,7 +168,7 @@ The chapter discusses city power to control the built environment-the physical a
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -194,7 +201,7 @@ Today's trend toward the renewal of cities, sociable places, higher standards of
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -227,7 +234,7 @@ Chapters 7 and 8 report on empirical investigations into issues and outcomes on 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -296,7 +303,7 @@ The Uptown Whittier Specific Plan was designed by one of the leading urban desig
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
