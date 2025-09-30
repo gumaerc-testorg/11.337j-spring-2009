@@ -293,7 +293,7 @@ A form-based code (FBC) is a method of regulating development to achieve a speci
 
 ### Reading 1: an integrated approach to design, policy, and implementation
 
-Moule and Polyzoides Architects and Urbanists. [_Uptown Whittier Specific Plan_](https://www.cityofwhittier.org/government/community-development/economic-development/planning-documents/uptown-specific-plan). Whittier, CA: City of Whittier, 2008.
+Moule and Polyzoides Architects and Urbanists. {{% resource_link "271fa1fd-09b0-41ca-b292-4c20fcd948f7" "_Uptown Whittier Specific Plan_" %}}. Whittier, CA: City of Whittier, 2008.
 
 
 {{< tdclose >}}
@@ -311,7 +311,7 @@ The Uptown Whittier Specific Plan was designed by one of the leading urban desig
 
 ### Reading 1: learning from best practices
 
-Punter, John. "[Developing Urban Design as Public Policy: Best Practice Principles for Design Review and Development Management](http://www.informaworld.com/smpp/content~db=all~content=a778270888)." _Journal of Urban Design_ 12 (2007): 167-202.
+Punter, John. "{{% resource_link "ca74f7d3-2a88-46da-9968-2a5aad0e3701" "Developing Urban Design as Public Policy: Best Practice Principles for Design Review and Development Management" %}}." _Journal of Urban Design_ 12 (2007): 167-202.
 
 
 {{< tdclose >}}
@@ -326,7 +326,7 @@ The paper develops and discusses some 12 principles for best practice design rev
 
 ### Reading 2: urban design paradigms and policy
 
-Garde, Ajay. "[Innovations in Urban Design and Urban Form: The Making of Paradigms and the Implications for Public Policy](http://jpe.sagepub.com/cgi/content/abstract/28/1/61)." _Journal of Planning Education and Research_ 28 (2008): 61-72.
+Garde, Ajay. "{{% resource_link "67904125-36f9-49bb-8120-a13dd1612273" "Innovations in Urban Design and Urban Form: The Making of Paradigms and the Implications for Public Policy" %}}." _Journal of Planning Education and Research_ 28 (2008): 61-72.
 
 
 {{< tdclose >}}
